@@ -1,4 +1,4 @@
-# hello-world
-Hello World Project
+# Blog-Website-EJS
+Blog Website Project
 
-My first project
+Blog Website using Embedded JavaScript templating
